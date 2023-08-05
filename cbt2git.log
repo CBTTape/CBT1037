@@ -1,0 +1,11 @@
+2023-08-06 01:05:13.395181 - Initialized conversion of CBT1037
+2023-08-06 01:05:13.591347 - Received CBT.V505.FILE1037.PDS from FILE1037.XMI 
+2023-08-06 01:05:13.593757 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE1037.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:05:13.594808 - Found $$DOC.txt (text/plain) in CBT.V505.FILE1037.PDS, moved to PDS/$$DOC
+2023-08-06 01:05:13.595883 - Found $RECEIVE.jcl (text/plain) in CBT.V505.FILE1037.PDS, moved to PDS/$RECEIVE
+2023-08-06 01:05:13.596946 - Found @FIL1037.txt (text/plain) in CBT.V505.FILE1037.PDS, moved to PDS/@FIL1037
+2023-08-06 01:05:13.598821 - De-xmi-ed DOCX to CBT1037/docs/DOCX.docx
+2023-08-06 01:05:13.620325 - Found LOAD.xmi (application/xmit) in CBT.V505.FILE1037.PDS
+2023-08-06 01:05:13.632580   - Received RECFM=U data, stored XMIT file as CBT1037/LOAD.xmi
+2023-08-06 01:05:14.117620 - Found SOURCE.xmi (application/xmit) in CBT.V505.FILE1037.PDS
+2023-08-06 01:05:14.174286   - Received to CBT1037/DISASM.SOURCE
